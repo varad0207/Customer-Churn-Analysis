@@ -1,4 +1,7 @@
 # Customer Churn Analysis
+
+Dataset - Teleco-Customer-Churn.csv
+
 ### Background:
 - Aim of this machine learning project is  to predict telecom users will churn or not depending on their subscription, monthly bill, tenure and basic demographic info
 - This is a binary classification 
