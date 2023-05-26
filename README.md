@@ -16,4 +16,11 @@
 -  Random oversampling involves randomly duplicating examples from the minority class and adding them to the training dataset
 7. Training models on oversampled data
 8. Evaluating these models
-9. 
+9. Tuning of hyperparameter using gridsearch cross validation
+- Gridsearch cross validation is a method used to determine the best hyperparameters for that model
+10. Evaluating hypertuned models
+11. Conclusion
+- We can observe that our models score improved a lot after performing oversampling
+- Hypertuned models performed only slightly better
+- Top predictive features are Payment Methods, contract type, total & monthly charges and tenure
+- Hypertuned Decision Tree, Random Forest, Gradient Boost performed better than Ada boost
